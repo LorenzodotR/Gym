@@ -2,7 +2,7 @@ version: '3.8'
 
 services:
   app:
-    container_name: gymhelper-api
+    container_name: gymhelper
     build:
       context: .
       dockerfile: Dockerfile
@@ -11,6 +11,17 @@ services:
     environment:
       - ASPNETCORE_ENVIRONMENT=Development
       - ConnectionStrings__DefaultConnection=Server=database;Database=GymHelper;User Id=sa;Password=YourStrong!Passw0rd;
+    volumes:
+      - ./GymHelper:/app/GymHelper
+      - ./GymHelper.BusinessLogic:/app/GymHelper.BusinessLogic
+      - ./GymHelper.BusinessLogic.Library:/app/GymHelper.BusinessLogic.Library
+      - ./GymHelper.Model:/app/GymHelper.Model
+      - ./GymHelper.Persistence:/app/GymHelper.Persistence
+      - ./GymHelper.Services:/app/GymHelper.Services
+      - ./GymHelper.Test:/app/GymHelper.Test
+      - ~/.nuget:/root/.nuget
+    working_dir: /app/GymHelper
+    command: ["dotnet", "watch", "run", "--urls", "http://*:5000"]
     depends_on:
       - database
 
@@ -27,5 +38,20 @@ services:
     volumes:
       - pgdata:/var/lib/postgresql/data
 
+  pgadmin:
+    container_name: pgadmin
+    image: dpage/pgadmin4:latest
+    restart: always
+    ports:
+      - "5050:80"
+    environment:
+      - PGADMIN_DEFAULT_EMAIL=admin@admin.com
+      - PGADMIN_DEFAULT_PASSWORD=adminpassword
+    depends_on:
+      - database
+    volumes:
+      - pgadmin_data:/var/lib/pgadmin
+
 volumes:
   pgdata:
+  pgadmin_data:
