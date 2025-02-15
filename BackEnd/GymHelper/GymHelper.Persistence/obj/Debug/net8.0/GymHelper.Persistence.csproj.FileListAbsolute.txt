@@ -1,0 +1,12 @@
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Persistence\bin\Debug\net8.0\GymHelper.Persistence.deps.json
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Persistence\bin\Debug\net8.0\GymHelper.Persistence.dll
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Persistence\bin\Debug\net8.0\GymHelper.Persistence.pdb
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Persistence\obj\Debug\net8.0\GymHelper.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Persistence\obj\Debug\net8.0\GymHelper.Persistence.AssemblyInfoInputs.cache
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Persistence\obj\Debug\net8.0\GymHelper.Persistence.AssemblyInfo.cs
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Persistence\obj\Debug\net8.0\GymHelper.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Persistence\obj\Debug\net8.0\GymHelper.Persistence.sourcelink.json
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Persistence\obj\Debug\net8.0\GymHelper.Persistence.dll
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Persistence\obj\Debug\net8.0\refint\GymHelper.Persistence.dll
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Persistence\obj\Debug\net8.0\GymHelper.Persistence.pdb
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Persistence\obj\Debug\net8.0\ref\GymHelper.Persistence.dll
