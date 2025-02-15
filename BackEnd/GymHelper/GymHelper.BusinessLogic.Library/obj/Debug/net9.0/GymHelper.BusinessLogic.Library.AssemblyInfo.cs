@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GymHelper.BusinessLogic.Library")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a12fd60e21310ffd4ea5499c4d88ba861c1b45f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44e5132c026017f2f94dc6d44a26faaf2ad81647")]
 [assembly: System.Reflection.AssemblyProductAttribute("GymHelper.BusinessLogic.Library")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GymHelper.BusinessLogic.Library")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
