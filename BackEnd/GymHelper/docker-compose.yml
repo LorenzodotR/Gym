@@ -1,0 +1,31 @@
+version: '3.8'
+
+services:
+  app:
+    container_name: gymhelper-api
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5002:5000"
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+      - ConnectionStrings__DefaultConnection=Server=database;Database=GymHelper;User Id=sa;Password=YourStrong!Passw0rd;
+    depends_on:
+      - database
+
+  database:
+    container_name: gymhelper-db
+    image: postgres:latest
+    restart: always
+    ports:
+      - "5432:5432"
+    environment:
+      POSTGRES_USER: gymhelper
+      POSTGRES_PASSWORD: gympassword
+      POSTGRES_DB: GymHelper
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+
+volumes:
+  pgdata:

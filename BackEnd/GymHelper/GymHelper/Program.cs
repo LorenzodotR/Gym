@@ -22,4 +22,6 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+app.Urls.Add("http://*:5000");
+
 app.Run();
