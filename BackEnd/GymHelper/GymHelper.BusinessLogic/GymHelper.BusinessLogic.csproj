@@ -4,4 +4,16 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
+  <ItemGroup>
+    <Folder Include="Core\" />
+    <Folder Include="User\Actions\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Npgsql" Version="9.0.2" />
+    <PackageReference Include="Npgsql.EntityFrameworkCore.PostgreSQL" Version="9.0.3" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\GymHelper.Model\GymHelper.Model.csproj" />
+    <ProjectReference Include="..\GymHelper.Services\GymHelper.Services.csproj" />
+  </ItemGroup>
 </Project>
