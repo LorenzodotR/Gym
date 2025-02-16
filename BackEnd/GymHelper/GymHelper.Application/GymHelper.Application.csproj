@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Exercise\" />
+    <Folder Include="ExtraActivity\" />
+    <Folder Include="MuscleGroup\" />
+    <Folder Include="Goal\" />
+    <Folder Include="Frequency\" />
+    <Folder Include="TrainingHistory\" />
+    <Folder Include="TrainingSheet\" />
+  </ItemGroup>
+
+</Project>
