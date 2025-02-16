@@ -1,13 +1,6 @@
+# Pastas do Visual Studio
 .vs/
-backend/GymHelper/bin
-backend/GymHelper/obj
-backend/GymHelper.Application/bin
-backend/GymHelper.Application/obj
-backend/GymHelper.Domain/bin
-backend/GymHelper.Domain/obj
-backend/GymHelper.Exceptions/bin
-backend/GymHelper.Exceptions/obj
-backend/GymHelper.Infrastructure/bin
-backend/GymHelper.Infrastructure/obj
-backend/GymHelper.Tests/bin
-backend/GymHelper.Tests/obj
+
+# Ignorar todas as pastas bin e obj em qualquer lugar do projeto
+**/bin/
+**/obj/
