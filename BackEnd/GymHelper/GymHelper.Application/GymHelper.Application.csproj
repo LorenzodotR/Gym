@@ -9,11 +9,8 @@
   <ItemGroup>
     <Folder Include="Exercise\" />
     <Folder Include="ExtraActivity\" />
-    <Folder Include="MuscleGroup\" />
     <Folder Include="Goal\" />
-    <Folder Include="Frequency\" />
     <Folder Include="TrainingHistory\" />
-    <Folder Include="TrainingSheet\" />
   </ItemGroup>
 
 </Project>

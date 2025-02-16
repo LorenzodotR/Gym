@@ -77,3 +77,8 @@ C:\Users\luizs\OneDrive\Desktop\Projetos\Gym\BackEnd\GymHelper\GymHelper\obj\Deb
 C:\Users\luizs\OneDrive\Desktop\Projetos\Gym\BackEnd\GymHelper\GymHelper\obj\Debug\net9.0\GymHelper.pdb
 C:\Users\luizs\OneDrive\Desktop\Projetos\Gym\BackEnd\GymHelper\GymHelper\obj\Debug\net9.0\GymHelper.genruntimeconfig.cache
 C:\Users\luizs\OneDrive\Desktop\Projetos\Gym\BackEnd\GymHelper\GymHelper\obj\Debug\net9.0\ref\GymHelper.dll
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper\bin\Debug\net9.0\Npgsql.dll
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

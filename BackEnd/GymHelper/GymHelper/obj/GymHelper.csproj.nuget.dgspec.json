@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\luizs\\OneDrive\\Desktop\\Projetos\\Gym\\BackEnd\\GymHelper\\GymHelper\\GymHelper.csproj": {}
+    "C:\\Users\\l.ribeiro\\Documents\\Lorenzo\\repos\\Gym\\BackEnd\\GymHelper\\GymHelper\\GymHelper.csproj": {}
   },
   "projects": {
-    "C:\\Users\\luizs\\OneDrive\\Desktop\\Projetos\\Gym\\BackEnd\\GymHelper\\GymHelper\\GymHelper.csproj": {
+    "C:\\Users\\l.ribeiro\\Documents\\Lorenzo\\repos\\Gym\\BackEnd\\GymHelper\\GymHelper\\GymHelper.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\luizs\\OneDrive\\Desktop\\Projetos\\Gym\\BackEnd\\GymHelper\\GymHelper\\GymHelper.csproj",
+        "projectUniqueName": "C:\\Users\\l.ribeiro\\Documents\\Lorenzo\\repos\\Gym\\BackEnd\\GymHelper\\GymHelper\\GymHelper.csproj",
         "projectName": "GymHelper",
-        "projectPath": "C:\\Users\\luizs\\OneDrive\\Desktop\\Projetos\\Gym\\BackEnd\\GymHelper\\GymHelper\\GymHelper.csproj",
-        "packagesPath": "C:\\Users\\luizs\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\luizs\\OneDrive\\Desktop\\Projetos\\Gym\\BackEnd\\GymHelper\\GymHelper\\obj\\",
+        "projectPath": "C:\\Users\\l.ribeiro\\Documents\\Lorenzo\\repos\\Gym\\BackEnd\\GymHelper\\GymHelper\\GymHelper.csproj",
+        "packagesPath": "C:\\Users\\l.ribeiro\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\l.ribeiro\\Documents\\Lorenzo\\repos\\Gym\\BackEnd\\GymHelper\\GymHelper\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\luizs\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\l.ribeiro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net9.0": {
@@ -82,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

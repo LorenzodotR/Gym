@@ -1,0 +1,12 @@
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Infrastructure\bin\Debug\net9.0\GymHelper.Infrastructure.deps.json
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Infrastructure\bin\Debug\net9.0\GymHelper.Infrastructure.dll
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Infrastructure\bin\Debug\net9.0\GymHelper.Infrastructure.pdb
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Infrastructure\obj\Debug\net9.0\GymHelper.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Infrastructure\obj\Debug\net9.0\GymHelper.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Infrastructure\obj\Debug\net9.0\GymHelper.Infrastructure.AssemblyInfo.cs
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Infrastructure\obj\Debug\net9.0\GymHelper.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Infrastructure\obj\Debug\net9.0\GymHelper.Infrastructure.sourcelink.json
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Infrastructure\obj\Debug\net9.0\GymHelper.Infrastructure.dll
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Infrastructure\obj\Debug\net9.0\refint\GymHelper.Infrastructure.dll
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Infrastructure\obj\Debug\net9.0\GymHelper.Infrastructure.pdb
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Infrastructure\obj\Debug\net9.0\ref\GymHelper.Infrastructure.dll

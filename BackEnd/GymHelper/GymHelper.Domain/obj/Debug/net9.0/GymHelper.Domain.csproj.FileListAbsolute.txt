@@ -1,0 +1,5 @@
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Domain\obj\Debug\net9.0\GymHelper.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Domain\obj\Debug\net9.0\GymHelper.Domain.AssemblyInfoInputs.cache
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Domain\obj\Debug\net9.0\GymHelper.Domain.AssemblyInfo.cs
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Domain\obj\Debug\net9.0\GymHelper.Domain.csproj.CoreCompileInputs.cache
+C:\Users\l.ribeiro\Documents\Lorenzo\repos\Gym\BackEnd\GymHelper\GymHelper.Domain\obj\Debug\net9.0\GymHelper.Domain.sourcelink.json
