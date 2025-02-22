@@ -1,11 +1,11 @@
 {
   "Servers": {
     "1": {
-      "Name": "Gym Helper DB",
+      "Name": "GymHelper-DB",
       "Group": "Servers",
-      "Host": "db",
+      "Host": "database",
       "Port": 5432,
-      "MaintenanceDB": "GymHelper",
+      "MaintenanceDB": "postgres",
       "Username": "gymhelper",
       "Password": "gympassword",
       "SSLMode": "prefer",

@@ -13,13 +13,12 @@ services:
       - ConnectionStrings__DefaultConnection=Server=database;Database=GymHelper;User Id=sa;Password=YourStrong!Passw0rd;
     volumes:
       - ./GymHelper:/app/GymHelper
-      - ./GymHelper.BusinessLogic:/app/GymHelper.BusinessLogic
-      - ./GymHelper.BusinessLogic.Library:/app/GymHelper.BusinessLogic.Library
-      - ./GymHelper.Model:/app/GymHelper.Model
-      - ./GymHelper.Persistence:/app/GymHelper.Persistence
-      - ./GymHelper.Services:/app/GymHelper.Services
-      - ./GymHelper.Test:/app/GymHelper.Test
-      - ~/.nuget:/root/.nuget
+      - ./GymHelper.Application:/app/GymHelper.Application
+      - ./GymHelper.Domain:/app/GymHelper.Domain
+      - ./GymHelper.Exceptions:/app/GymHelper.Exceptions
+      - ./GymHelper.Infrastructure:/app/GymHelper.Infrastructure
+      - ./GymHelper.Tests:/app/GymHelper.Tests
+      -  nuget-cache:/root/.nuget/packages
     working_dir: /app/GymHelper
     command: ["dotnet", "watch", "run", "--urls", "http://*:5000"]
     depends_on:
@@ -37,6 +36,7 @@ services:
       POSTGRES_DB: GymHelper
     volumes:
       - pgdata:/var/lib/postgresql/data
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
 
   pgadmin:
     container_name: pgadmin
@@ -51,7 +51,9 @@ services:
       - database
     volumes:
       - pgadmin_data:/var/lib/pgadmin
+      - ./servers.json:/pgadmin4/servers.json
 
 volumes:
   pgdata:
   pgadmin_data:
+  nuget-cache:
