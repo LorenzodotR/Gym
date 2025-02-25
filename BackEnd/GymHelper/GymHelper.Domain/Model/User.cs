@@ -28,6 +28,6 @@ namespace GymHelper.Model
         public ICollection<TrainingSheet> TrainingSheets { get; set; }
         public ICollection<Frequency> Frequencies { get; set; }
         public ICollection<Goal> Goals { get; set; }
-        public ICollection<Notification> Notifications { get; set; }
+        //public ICollection<Notification> Notifications { get; set; }
     }
 }

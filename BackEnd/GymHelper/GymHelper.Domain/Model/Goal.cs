@@ -30,6 +30,6 @@ namespace GymHelper.Model
 
         // Navigation properties
         public User User { get; set; }
-        public ICollection<Notification> Notifications { get; set; }
+        //public ICollection<Notification> Notifications { get; set; }
     }
 }
